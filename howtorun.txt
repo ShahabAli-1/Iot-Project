@@ -1,0 +1,11 @@
+How to run:
+
+1) unzip the file,
+
+2) Open in Vs code
+
+3) navigate to directory react-admin
+
+4) run command npm install
+
+5) run command npm start
